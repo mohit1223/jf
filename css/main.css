@@ -1,0 +1,24 @@
+.positionDown a{
+	margin-top: 130px;
+	color: #000;
+}
+.con{
+	color: #002233;
+}
+
+.liStyle{
+	list-style: none;
+}
+
+.tr{
+	color: rgb(255,131,0);
+}
+
+p.tr{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.bottomSpace{
+	margin-bottom: 15px;
+}
